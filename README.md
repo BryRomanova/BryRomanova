@@ -1,91 +1,95 @@
 
 <div align="center">
 
-# BRYAN ROMANOVA
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090014,50:30105C,100:080B20&height=200&section=header&text=BRYAN%20ROMANOVA&fontSize=48&fontColor=C084FC&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER&descSize=18&descColor=67E8F9&descAlignY=60" width="100%" />
 
-### Software Development | Web Technologies | Information Systems
+### `> Building digital experiences through code.`
 
-Building practical solutions through technology.
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-1D4ED8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Costa%20Rica-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-15803D?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/LOCATION-COSTA%20RICA-8B5CF6?style=for-the-badge&labelColor=090014" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-06B6D4?style=for-the-badge&labelColor=090014" />
 
 </div>
 
 ---
 
-## About Me
+## `// ABOUT ME`
 
-I'm a technology enthusiast focused on software development, web technologies, and building solutions that combine functionality with a great user experience.
+I'm a software development enthusiast with a background in **Business Informatics**, interested in creating functional, scalable, and user-focused digital solutions.
 
-My background in Business Informatics has helped me develop a strong interest in software engineering, database management, and problem-solving.
+I enjoy working with web technologies, exploring software engineering concepts, and continuously improving my technical skills.
 
 - 💻 Interested in software and web development.
-- 🌐 Experience with front-end technologies and web applications.
-- 🗄️ Interested in database design and data management.
-- 🚀 Always exploring new technologies and improving my skills.
-- 📍 Based in Costa Rica.
+- 🌐 Experience building web applications.
+- 🗄️ Knowledge of databases and data management.
+- 🚀 Always learning and exploring new technologies.
+- 🌎 Based in Costa Rica.
 
 ---
 
-## Technical Skills
+## `// TECH STACK`
 
-### Programming Languages
+### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=cs,js,html,css,php" />
 </p>
 
 ### Frameworks & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,bootstrap,git,github,vscode" />
 </p>
 
 ### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
-## Featured Projects
+## `// FEATURED PROJECTS`
 
-### HOMSCR
+### 🏡 HOMSCR
+
 A web platform focused on condominium listings and property presentation.
 
-**Technologies:**
+**Technologies used:**
+
 - Laravel 10
 - Livewire 3
 - Bootstrap 5
 - JavaScript
 - DigitalOcean Spaces (S3)
 
-<!-- Add your public HOMSCR repository link here -->
+<!-- Add your public project repository URL here -->
 
 ---
 
-## GitHub Statistics
+## `// GITHUB ANALYTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BryRomanova&show_icons=true&hide_border=true&title_color=1D4ED8&icon_color=2563EB&text_color=475569&bg_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BryRomanova&show_icons=true&hide_border=true&bg_color=090014&title_color=C084FC&icon_color=67E8F9&text_color=D1D5DB&ring_color=8B5CF6" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryRomanova&layout=compact&hide_border=true&title_color=1D4ED8&text_color=475569&bg_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryRomanova&layout=compact&hide_border=true&bg_color=090014&title_color=C084FC&text_color=D1D5DB" />
 
 </div>
 
 ---
 
-## Connect With Me
+## `// CONNECT`
 
-I'm always interested in connecting with people, exploring new technologies, and discovering opportunities to grow professionally.
+I'm always open to connecting with developers, sharing ideas, and exploring new opportunities.
 
-<!-- Add your LinkedIn and professional email here -->
+<!-- Add your LinkedIn and professional email links here -->
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,100:30105C&height=3&section=footer" width="100%" />
+
+### <span style="color:#C084FC">Thanks for visiting my profile!</span>
+
+`01000010 01010010 01011001 01000001 01001110`
 
 </div>
