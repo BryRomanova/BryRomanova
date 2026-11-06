@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090014,50:30105C,100:080B20&height=200&section=header&text=BRYAN%20/ROMANOVA&fontSize=48&fontColor=C084FC&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER&descSize=18&descColor=67E8F9&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090014,50:30105C,100:080B20&height=200&section=header&text=BRYAN%20SOLIS&fontSize=48&fontColor=C084FC&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER&descSize=18&descColor=67E8F9&descAlignY=60" width="100%" />
 
 ### `> Building digital experiences through code.`
 
