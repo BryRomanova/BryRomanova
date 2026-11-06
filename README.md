@@ -70,9 +70,9 @@ A web platform focused on condominium listings and property presentation.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BryRomanova&show_icons=true&hide_border=true&bg_color=090014&title_color=C084FC&icon_color=67E8F9&text_color=D1D5DB&ring_color=8B5CF6" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=BryRomanova&show_icons=true&hide_border=true&bg_color=090014&title_color=C084FC&icon_color=67E8F9&text_color=D1D5DB" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryRomanova&layout=compact&hide_border=true&bg_color=090014&title_color=C084FC&text_color=D1D5DB" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BryRomanova&layout=compact&hide_border=true&bg_color=090014&title_color=C084FC&text_color=D1D5DB" />
 
 </div>
 
